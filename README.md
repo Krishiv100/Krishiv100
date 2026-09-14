@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1120,75:111827,100:172554&text=KRISHIV%20PATEL&fontColor=F8FAFC&fontSize=55&fontAlignY=37&desc=Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Computer+Science+%40+IIIT+Vadodara;Diploma+in+Data+Science+%40+IIT+Madras;Former+ML+Research+Intern+%40+NIT+Calicut;Deep+Learning+%E2%80%A2+GNNs+%E2%80%A2+Generative+AI;Building+systems+that+move+from+ideas+to+impact."
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=B.Tech.+Computer+Science+%40+IIIT+Vadodara;Diploma+in+Data+Science+%40+IIT+Madras;Former+ML+Research+Intern+%40+NIT+Calicut;Deep+Learning+%E2%80%A2+GNNs+%E2%80%A2+Generative+AI;Building+systems+that+move+from+ideas+to+impact."
 alt="Typing SVG"
 />
 
