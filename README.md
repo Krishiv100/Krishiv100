@@ -4,7 +4,7 @@
 
 ### Computer Science Student • Machine Learning • Deep Learning • Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+IIIT+Vadodara+ICD;BS+Data+Science+%40+IIT+Madras;Machine+Learning+%26+Deep+Learning;Graph+Neural+Networks+%7C+STGCN;Building+%26+Learning+One+Project+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+IIIT+Vadodara;Diploma+Data+Science+%40+IIT+Madras;Machine+Learning+%26+Deep+Learning;Graph+Neural+Networks+%7C+STGCN;Building+%26+Learning+One+Project+at+a+Time" alt="Typing SVG" />
 
 <br/>
 
@@ -190,7 +190,7 @@ Graph Neural Networks
 
 ## 🎓 Education
 
-### Indian Institute of Information Technology Vadodara — International Campus Diu
+### Indian Institute of Information Technology Vadodara 
 
 **B.Tech — Computer Science & Engineering**
 2024 – 2028
