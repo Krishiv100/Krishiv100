@@ -21,8 +21,8 @@
 
 I'm a Computer Science undergraduate interested in building intelligent systems at the intersection of **Machine Learning, Deep Learning, Data Science, and Software Engineering**.
 
-* 🎓 **B.Tech in Computer Science & Engineering** at IIIT Vadodara – International Campus Diu
-* 📊 Pursuing **B.S. in Data Science and Applications** at IIT Madras
+* 🎓 **B.Tech in Computer Science & Engineering** at IIIT Vadodara 
+* 📊 Completed **Diploma in Data Science** at IIT Madras
 * 🔬 Former **Machine Learning Research Intern at NIT Calicut**
 * 🧠 Worked on **Spatio-Temporal Graph Neural Networks** for traffic-flow prediction
 * 💻 Interested in **Machine Learning, Deep Learning, Graph Neural Networks, DSA, Backend Systems, and AI**
